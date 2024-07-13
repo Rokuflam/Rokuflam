@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **[HarvardX CS50AI](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/roman-kulibaba/](https://www.linkedin.com/in/roman-kulibaba/)
-
 - 💬 Ask me about **Django, OpenAI prompting, ProjectZero and programming overall**
 
 - 📫 How to reach me **kulibabaroman6@gmail.com**
